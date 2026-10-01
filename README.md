@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nassau Candy Distributor
 ## Product Profitability & Margin Risk Analysis Dashboard
 
@@ -336,3 +337,6 @@ Add your GitHub repository link here:
 Shipping analysis was explored using Order Date, Ship Date and Shipping Days. Because the resulting shipping-duration values required further source-level validation, shipping metrics were not used as a primary basis for the profitability recommendations.
 
 The primary project scope remains product profitability, division performance, cost structure and profit concentration.
+=======
+
+>>>>>>> 18536c024dc608e08687bc16e33fba925e78ca17
